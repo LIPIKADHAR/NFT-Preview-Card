@@ -1,0 +1,2 @@
+# NFT-Preview-Card
+HTML, CSS PROJECT
